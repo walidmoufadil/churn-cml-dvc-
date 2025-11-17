@@ -7,7 +7,6 @@ import os
 from imblearn.over_sampling import SMOTE
 
 from PIL import Image 
-
 from PIL import Image
 
 
